@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MortgageCast.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>5</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BD04220865E5542BCCD3C9AE4BB375238CCAF663</string>
+				<key>dateExpires</key>
+				<string>8/26/22</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>S8T4JRTN9H.com.ThinkInBoxes.MortgageCast</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>S8T4JRTN9H</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>S8T4JRTN9H.com.ThinkInBoxes.MortgageCast</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>MortgageCast.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e59c8291-7fda-45cc-aa14-3a7e90476e22</string>
+				<key>dateExpires</key>
+				<string>8/26/22</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.ThinkInBoxes.MortgageCast</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>S8T4JRTN9H</string>
+				<key>name</key>
+				<string>Think In Boxes, LLC</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

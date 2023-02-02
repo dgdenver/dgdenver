@@ -6178,9 +6178,9 @@
         };
     t._RealScout.getConfig = function() {
         var e = t._rsConfig && _rsConfig.apiHost || "https://www.realscout.com",
-            n = t._rsConfig && _rsConfig.assetHost || "https://raw.githubusercontent.com",//"https://em.realscout.com",
+            n = t._rsConfig && _rsConfig.assetHost || "https://em.realscout.com",
             i = t._rsConfig && _rsConfig.agentDomain || "realscout.com",
-            r = t._rsConfig && _rsConfig.cssPath || "/dgdenver/dgdenver/gh-pages/",//"/assets/em/v3/",
+            r = t._rsConfig && _rsConfig.cssPath || "/assets/em/v3/",
             o = function(t) {
                 return "https://" + t + "." + i
             },

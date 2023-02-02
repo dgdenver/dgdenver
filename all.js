@@ -6194,7 +6194,7 @@
         }
     },
     s(e).ready(function() {
-        var t = "https://raw.githubusercontent.com/dgdenver/dgdenver/gh-pages/embedded.css"//_RealScout.getConfig().assetHost + _RealScout.getConfig().cssPath + "embedded.css";
+        var t = "https://raw.githubusercontent.com/dgdenver/dgdenver/gh-pages/embedded.css";//_RealScout.getConfig().assetHost + _RealScout.getConfig().cssPath + "embedded.css";
         i(t, a)
     }),
     _RealScout.AdvancedSearch = {
